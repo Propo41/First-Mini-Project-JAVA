@@ -1,6 +1,7 @@
 # Mini_Project_1 (JAVA)
 
 Guessing Game
+Objective: To get familiar with Java
 
 Game Description
 -------------------------------------------------------------------------------------------------
